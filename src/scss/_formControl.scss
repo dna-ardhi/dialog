@@ -1,0 +1,10 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 500px;
+}
+
+.control {
+  width: 100%;
+}
